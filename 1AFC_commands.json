@@ -1,0 +1,7 @@
+{
+    "1AFC": [
+        {"command": "new-rover", "position": {"x":"3","y":"3"}},
+        {"rover-id":"1AFC", "command": "move-forward"},
+        {"rover-id":"1AFC", "command": "turn-right"}
+    ]
+}
